@@ -1,4 +1,4 @@
-# MSX Disk Manager Utility - Versão 1.8b (Build 6A564A6D)
+# MSX Disk Manager Utility - Versão  (Build )
 
 Este utilitário é uma reescrita completa em **PureBasic** do clássico gerenciador de imagens de disquete MSX (`.DSK`). Ele permite a criação de novos discos em branco de 720KB (completamente formatados com FAT12), listagem detalhada de arquivos, adição de novos arquivos locais, extração e exclusão de arquivos existentes.
 
@@ -10,7 +10,7 @@ Este projeto foi totalmente desenvolvido utilizando o **Antigravity IDE**.
 
 - **Versão 1.6 (Original)**: Desenvolvida por Arnold Metselaar para Linux. Um utilitário em linha de comando escrito em C composto pelos programas separados `rddsk` (para ler/extrair) e `wrdsk` (para gravar).
 - **Versão 1.7 (Adaptação)**: Adaptada por Wilson "Barney" Pilon para sistemas de 64 bits e compatibilizada com Windows através de MSYS2/MinGW.
-- **Versão 1.8b (Esta Versão)**: Uma **reescrita completa do zero em PureBasic**. Consolida todas as funções de leitura e escrita em uma única biblioteca e em um único utilitário unificado de console, eliminando a dependência do compilador C e de DLLs de terceiros (como `msys-2.0.dll`).
+- **Versão  (Esta Versão)**: Uma **reescrita completa do zero em PureBasic**. Consolida todas as funções de leitura e escrita em uma única biblioteca e em um único utilitário unificado de console, eliminando a dependência do compilador C e de DLLs de terceiros (como `msys-2.0.dll`).
 
 ---
 

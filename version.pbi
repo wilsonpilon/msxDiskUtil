@@ -1,2 +1,2 @@
 #VERSION$ = "1.8b"
-#BUILD$ = "6A564A6D"
+#BUILD$ = "6A5656C6"
