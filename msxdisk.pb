@@ -8,10 +8,11 @@
 ; **                                                         **
 ; *************************************************************
 
+XIncludeFile "version.pbi"
 XIncludeFile "MSXDisk.pbi"
 
 Procedure ShowHelp()
-  PrintN("MSX Disk Manager Utility v1.0 (PureBasic)")
+  PrintN("MSX Disk Manager Utility v" + #VERSION$ + " Build " + #BUILD$ + " (PureBasic)")
   PrintN("Uso: msxdisk <comando> <imagem_disco.dsk> [argumentos...]")
   PrintN("")
   PrintN("Comandos disponíveis:")
